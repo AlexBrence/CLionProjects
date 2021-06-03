@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/naloga04.dir/BinReader.cpp.o CMakeFiles/naloga04.dir/BinWriter.cpp.o CMakeFiles/naloga04.dir/main.cpp.o -o naloga04 

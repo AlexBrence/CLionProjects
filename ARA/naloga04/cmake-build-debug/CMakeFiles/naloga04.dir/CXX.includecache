@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alex/CLionProjects/ARA/naloga04/BinReader.h
+iostream
+-
+fstream
+-
+
+/home/alex/CLionProjects/ARA/naloga04/BinWriter.h
+iostream
+-
+fstream
+-
+
+/home/alex/CLionProjects/ARA/naloga04/main.cpp
+algorithm
+-
+climits
+-
+cmath
+-
+iostream
+-
+stack
+-
+unordered_map
+-
+vector
+-
+BinReader.h
+/home/alex/CLionProjects/ARA/naloga04/BinReader.h
+BinWriter.h
+/home/alex/CLionProjects/ARA/naloga04/BinWriter.h
+
